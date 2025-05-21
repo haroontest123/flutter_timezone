@@ -1,3 +1,7 @@
+## Unreleased
+
+* Update minimum MacOS version to 10.14 ([50](https://github.com/tjarvstrand/flutter_timezone/pull/50)) @bqubique
+
 ## 4.1.1
 
 * Don't always return true on Linux.
