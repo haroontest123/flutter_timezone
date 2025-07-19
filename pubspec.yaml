@@ -1,7 +1,7 @@
 name: flutter_native_timezone
 description: A flutter plugin for getting the local timezone of the device.
 version: 4.1.1
-homepage: https://github.com/tjarvstrand/flutter_timezone
+homepage: https://github.com/haroontest123/flutter_timezone
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
@@ -17,8 +17,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
-# The following section is specific to Flutter.
 flutter:
   plugin:
     platforms:
